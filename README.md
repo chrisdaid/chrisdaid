@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christopher Dai (@chrisdaid)
-- 👀 I’m interested in cryptocurency, technology, and learning new technologies :)
+- 👀 I’m interested in cryptocurency, finance, and learning new technologies
 - 🌱 I’m currently learning JavaScript & Wordpress
 - ✈️ I'm from California, but currently reside in Virginia 
 - 📫 How to reach me... email me! c.chrisdb@gmail.com
