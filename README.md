@@ -1,5 +1,4 @@
 <h2>👋 Greetings! I'm Chris</h2>
-
 <h4>Current</h4>
 <ul>
 	<li>🖥️ Built an IT Services landing page</li>
@@ -23,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage"> </img>
-
+<img align="center" src="https://komarev.com/ghpvc/?username=chrisdaid&label=Guests"> </img>
