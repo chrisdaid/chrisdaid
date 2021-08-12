@@ -2,7 +2,7 @@
 <h4>Current</h4>
 <ul>
 	<li>🖥️ Built an IT Services landing page</li>
-	<li>✏️ Working on a todolist</li>
+	<li>✏️ Working on a todolist and my portfolio</li>
 	<li>⏳ Counting down the days until school starts</li>
 	<li>👨‍💻 Working toward becoming a Full-Stack Developer</li>
 </ul>
