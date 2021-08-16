@@ -11,7 +11,7 @@
 <ul>
 	<li>📚 I'm a Junior in High School</li>
 	<li>🏢 I currently volunteer at ICDR International in Virginia</li>
-	<li>👀 I’m interested in cryptocurency, finance, and learning new technologies</li>
+	<li>👀 I’m interested in cryptocurency, stocks, finance, and learning new technologies</li>
 	<li>🌱 Learning JavaScript and Personal Finance</li>
 	<li>🧠 I plan on studying Computer Science in college</li>
 </ul>
