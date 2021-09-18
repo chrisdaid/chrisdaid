@@ -3,7 +3,7 @@
 <ul>
 	<li>🖥️ Built an IT Services landing page</li>
 	<li>✏️ Working on a todolist and my portfolio</li>
-	<li>⏳ School just started</li>
+	<li>⏳ School is taking up all my time :(</li>
 	<li>👨‍💻 Working toward becoming a Full-Stack Developer</li>
 </ul>
 
