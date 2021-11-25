@@ -1,93 +1,36 @@
 <h1 align="center">👋 Greetings! I'm Chris</h1>
-<h3 align="center">A passionate frontend developer from California</h3>
+<h3 align="center">Front-End Developer from California</h3>
+<div class="socials" align="center">
+    <a href="http://linkedin.com/in/chrisdaid">LinkedIn</a>
+    <a href="http://twitter.com/sirhchris">Twitter</a>
+</div>
+<h4>Current</h4>
+<ul>
+	<li>🖥️ Built an IT Services landing page</li>
+	<li>💸 Working on a mystery crypto related project</li>
+	<li>⏳ School is taking up all my time :(</li>
+	<li>👨‍💻 Working toward becoming a Full-Stack Developer</li>
+</ul>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=chrisdaid&label=Profile%20Views&color=1e2430&style=flat"
-    alt="chrisdaid"
-  />
+<h4>Biography</h4>
+<ul>
+	<li>📚 I'm a Junior in High School</li>
+	<li>🏢 I currently volunteer at ICDR International in Virginia</li>
+	<li>👀 I’m interested in cryptocurency, stocks, finance, and learning new technologies</li>
+	<li>🌱 Begun this journey August 2020</li>
+	<li>🧠 I plan on studying Computer Science in college</li>
+</ul>
+
+<hr>
+<img align="center" src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage"> </img>
+<p>
+    <a href="https://github.com/chrisdaid/full-landing-page"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=full-landing-page&theme=ayu-mirage"> </img></a>
+    <a href="http://github.com/chrisdaid/rigmanager"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=rigmanager&theme=ayu-mirage"> </img></a>
+    <a href="http://github.com/chrisdaid/my-portfolio"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=my-portfolio&theme=ayu-mirage"> </img></a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sirhchris" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="sirhchris"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/chrisdaid" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    <img
+      src="https://komarev.com/ghpvc/?username=chrisdaid&label=Profile%20Views&color=1e2430&style=flat"
       alt="chrisdaid"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
     />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+  </p>
