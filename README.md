@@ -1,26 +1,93 @@
-<h2>👋 Greetings! I'm Chris</h2>
-<h4>Current</h4>
-<ul>
-	<li>🖥️ Built an IT Services landing page</li>
-	<li>💸 Working on a mystery crypto related project</li>
-	<li>⏳ School is taking up all my time :(</li>
-	<li>👨‍💻 Working toward becoming a Full-Stack Developer</li>
-</ul>
+<h1 align="center">👋 Greetings! I'm Chris</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h4>Biography</h4>
-<ul>
-	<li>📚 I'm a Junior in High School</li>
-	<li>🏢 I currently volunteer at ICDR International in Virginia</li>
-	<li>👀 I’m interested in cryptocurency, stocks, finance, and learning new technologies</li>
-	<li>🌱 Learning JavaScript and Personal Finance</li>
-	<li>🧠 I plan on studying Computer Science in college</li>
-</ul>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=chrisdaid&label=Profile%20Views&color=1e2430&style=flat"
+    alt="chrisdaid"
+  />
+</p>
 
-<!---
-chrisdaid/chrisdaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<hr>
-<img align="center" src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage"> </img>
-<img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=full-landing-page&theme=ayu-mirage"> </img>
-<img align="center" src="https://komarev.com/ghpvc/?username=chrisdaid&label=Guests"> </img>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/sirhchris" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="sirhchris"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://linkedin.com/in/chrisdaid" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="chrisdaid"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      alt="photoshop"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
