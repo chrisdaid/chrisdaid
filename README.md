@@ -21,5 +21,5 @@ chrisdaid/chrisdaid is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage"> </img>
+<img align="center" src="https://github-readme-stats-3gdvpvdke-chrisdaid.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage"> </img>
 <img align="center" src="https://komarev.com/ghpvc/?username=chrisdaid&label=Guests"> </img>
