@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr>
 <img align="center" src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage"> </img>
-<img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=full-landing-page)](https://github.com/chrisdaid/full-landing-page"> </img>
+<img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=full-landing-page&theme=ayu-mirage"> </img>
 <img align="center" src="https://komarev.com/ghpvc/?username=chrisdaid&label=Guests"> </img>
