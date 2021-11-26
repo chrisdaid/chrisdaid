@@ -27,6 +27,8 @@
     <a href="https://github.com/chrisdaid/full-landing-page"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=full-landing-page&theme=ayu-mirage"> </img></a>
     <a href="http://github.com/chrisdaid/rigmanager"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=rigmanager&theme=ayu-mirage"> </img></a>
     <a href="http://github.com/chrisdaid/my-portfolio"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=my-portfolio&theme=ayu-mirage"> </img></a>
+     <a href="http://github.com/chrisdaid/todolist"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=todolist&theme=ayu-mirage"> </img></a>
+     <a href="http://github.com/chrisdaid/login-screen"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=login-screen&theme=ayu-mirage"> </img></a>
 </p>
 <p align="left">
     <img
