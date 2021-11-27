@@ -1,18 +1,16 @@
-<h1 align="center">👋 Greetings! I'm Chris</h1>
-<h3 align="center">Front-End Developer from California</h3>
-<div class="socials" align="center">
-    <a href="http://linkedin.com/in/chrisdaid">LinkedIn</a>
-    <a href="http://twitter.com/sirhchris">Twitter</a>
-</div>
-<h4>Current</h4>
+### Greetings! I'm Chris
+
+<h4>I am a 16-year-old student in high school and am from the sunny state of California 🌴.</h4>
+
+<h6>Current</h6>
 <ul>
 	<li>🖥️ Built an IT Services landing page</li>
 	<li>💸 Working on a mystery crypto related project</li>
-	<li>⏳ School is taking up all my time :(</li>
+	<li>⏳ Studying for school</li>
 	<li>👨‍💻 Working toward becoming a Full-Stack Developer</li>
 </ul>
 
-<h4>Biography</h4>
+<h6>Biography</h6>
 <ul>
 	<li>📚 I'm a Junior in High School</li>
 	<li>🏢 I currently volunteer at ICDR International in Virginia</li>
@@ -20,19 +18,24 @@
 	<li>🌱 Begun this journey August 2020</li>
 	<li>🧠 I plan on studying Computer Science in college</li>
 </ul>
+If you want to learn more about me, feel free to visit my website and/or connect with me!
 
-<hr>
-<img align="center" src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage"> </img>
-<p>
-    <a href="https://github.com/chrisdaid/full-landing-page"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=full-landing-page&theme=ayu-mirage"> </img></a>
-    <a href="http://github.com/chrisdaid/rigmanager"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=rigmanager&theme=ayu-mirage"> </img></a>
-    <a href="http://github.com/chrisdaid/my-portfolio"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=my-portfolio&theme=ayu-mirage"> </img></a>
-     <a href="http://github.com/chrisdaid/todolist"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=todolist&theme=ayu-mirage"> </img></a>
-     <a href="http://github.com/chrisdaid/login-screen"><img src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=login-screen&theme=ayu-mirage"> </img></a>
-</p>
-<p align="left">
-    <img
-      src="https://komarev.com/ghpvc/?username=chrisdaid&label=Profile%20Views&color=1e2430&style=flat"
-      alt="chrisdaid"
-    />
-  </p>
+- Website: [christopherdai.com](http://christopherdai.com)
+- LinkedIn: [@chrisdaid](http://linkedin.com/in/chrisdaid)
+- Twitter: [@sirhchris](http://twitter.com/sirhchris)>
+
+---
+
+<a href="https://github.com/chrisdaid/">
+<img align = "center" src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage&count_private=true"></img>
+</a>
+
+---
+
+![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=my-portfolio&theme=ayu-mirage)
+![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=full-landing-page&theme=ayu-mirage)
+![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=rigmanager&theme=ayu-mirage)
+![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=todolist&theme=ayu-mirage)
+
+
+
