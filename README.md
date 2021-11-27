@@ -1,4 +1,4 @@
-### Greetings! I'm Chris
+### Greetings! I'm Chris <img src="https://raw.githubusercontent.com/chrisdaid/chrisdaid/main/wave.gif" width="22px">
 
 <h4>I am a 16-year-old student in high school and am from the sunny state of California 🌴.</h4>
 
