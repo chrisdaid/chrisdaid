@@ -32,7 +32,7 @@ If you want to learn more about me, feel free to visit my website and/or connect
 
 ---
 
-![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=my-portfolio&theme=ayu-mirage)
+[![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=my-portfolio&theme=ayu-mirage)](https://github.com/chrisdaid/my-portfolio)
 ![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=full-landing-page&theme=ayu-mirage)
 ![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=rigmanager&theme=ayu-mirage)
 ![my-portfolio](https://readme-q35s9p6nl-chrisdaid.vercel.app/api/pin/?username=chrisdaid&repo=todolist&theme=ayu-mirage)
