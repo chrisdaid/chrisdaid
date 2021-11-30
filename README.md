@@ -22,7 +22,7 @@ If you want to learn more about me, feel free to visit my website and/or connect
 
 - Website: [christopherdai.com](http://christopherdai.com)
 - LinkedIn: [@chrisdaid](http://linkedin.com/in/chrisdaid)
-- Twitter: [@sirhchris](http://twitter.com/sirhchris)>
+- Twitter: [@sirhchris](http://twitter.com/sirhchris)
 
 ---
 
