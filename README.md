@@ -5,7 +5,7 @@
 <h6>Current</h6>
 <ul>
 	<li>🖥️ Built an IT Services landing page</li>
-	<li>💸 Working on a mystery crypto related project</li>
+	<li>💸 Working on a crypto mining project</li>
 	<li>⏳ Studying for school</li>
 	<li>👨‍💻 Working toward becoming a Full-Stack Developer</li>
 </ul>
