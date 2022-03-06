@@ -26,11 +26,8 @@ If you want to learn more about me, feel free to visit my website and/or connect
 ---
 
 <a href="https://github.com/chrisdaid/">
-<img align = "center" src="https://readme-q35s9p6nl-chrisdaid.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage&count_private=true"></img>
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=chrisdaid&show_icons=true&theme=ayu-mirage&count_private=true"></img>
+
 </a>
 
 ---
-
-
-
-
