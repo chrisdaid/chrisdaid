@@ -1,18 +1,18 @@
 ### Greetings! I'm Chris <img src="https://raw.githubusercontent.com/chrisdaid/chrisdaid/main/wave.gif" width="22px">
 
-<h4>I am a 16-year-old student in high school and am from the sunny state of California 🌴.</h4>
+<h4>I am from the sunny state of California 🌴.</h4>
 
 <h6>Current</h6>
 <ul>
-	<li>🖥️ Built an IT Services landing page</li>
-	<li>💸 Working on a crypto mining project</li>
+	<li>🖥️ Built a crypto mining rig manager</li>
+	<li>💸 Working on my portfolio</li>
 	<li>⏳ Studying for school</li>
 	<li>👨‍💻 Working toward becoming a Full-Stack Developer</li>
 </ul>
 
 <h6>Biography</h6>
 <ul>
-	<li>📚 I'm a Junior in High School</li>
+	<li>📚 I'm a student at MiraCosta College</li>
 	<li>🏢 I currently volunteer at ICDR International in Virginia</li>
 	<li>👀 I’m interested in cryptocurency, stocks, finance, and learning new technologies</li>
 	<li>🌱 Begun this journey August 2020</li>
