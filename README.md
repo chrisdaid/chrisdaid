@@ -13,15 +13,14 @@
 <h6>Biography</h6>
 <ul>
 	<li>📚 I'm a student at MiraCosta College</li>
-	<li>🏢 I currently volunteer at ICDR International in Virginia</li>
 	<li>👀 I’m interested in cryptocurency, stocks, finance, and learning new technologies</li>
 	<li>🌱 Begun this journey August 2020</li>
 	<li>🧠 I plan on studying Computer Science in college</li>
 </ul>
 If you want to learn more about me, feel free to visit my website and/or connect with me!
 
-- Website: [christopherdai.com](http://christopherdai.com) WIP
-- LinkedIn: [@chrisdaid](http://linkedin.com/in/chrisdaid)
+- Website: [christopherdai.com](https://christopherdai.com)
+- LinkedIn: [@chrisdaid](https://linkedin.com/in/chrisdaid)
 
 ---
 
