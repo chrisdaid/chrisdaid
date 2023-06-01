@@ -12,7 +12,7 @@
 
 <h6>Biography</h6>
 <ul>
-	<li>📚 I'm a student at MiraCosta College</li>
+	<li>📚 I'm a student</li>
 	<li>👀 I’m interested in cryptocurency, stocks, finance, and learning new technologies</li>
 	<li>🌱 Begun this journey August 2020</li>
 	<li>🧠 I plan on studying Computer Science in college</li>
