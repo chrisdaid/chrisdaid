@@ -15,7 +15,7 @@
 	<li>📚 I'm a student</li>
 	<li>👀 I’m interested in cryptocurency, stocks, finance, and learning new technologies</li>
 	<li>🌱 Begun this journey August 2020</li>
-	<li>🧠 I plan on studying Computer Science in college</li>
+	<li>🧠 I study Computer Science</li>
 </ul>
 If you want to learn more about me, feel free to visit my website and/or connect with me!
 
