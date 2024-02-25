@@ -19,7 +19,6 @@
 </ul>
 If you want to learn more about me, feel free to visit my website and/or connect with me!
 
-- Website: [christopherdai.com](https://christopherdai.com)
 - LinkedIn: [@chrisdaid](https://linkedin.com/in/chrisdaid)
 
 ---
