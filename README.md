@@ -6,7 +6,6 @@
 <p>🛡️ Background in Cybersecurity and IT</p>
 
 Connect with me:
-- Website: [christopherdai.com](https://christopherdai.com)
 - LinkedIn: [@chrisdaid](https://linkedin.com/in/chrisdaid)
 
 ---
