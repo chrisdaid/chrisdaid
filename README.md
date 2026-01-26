@@ -3,9 +3,7 @@
 <h6>About Me</h6>
 <p>👨‍💻 Software Engineer specializing and business, finance, and emerging technologies</p>
 
-<p>🛡️ Background in Cybersecurity and IT</p>
-
 Connect with me:
-- LinkedIn: [@chrisdaid](https://linkedin.com/in/chrisdaid)
+- LinkedIn: [@chrisdai](https://linkedin.com/in/chrisdai)
 
 ---
